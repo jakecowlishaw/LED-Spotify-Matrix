@@ -58,10 +58,10 @@ SPOTIFY_ACCESS_TOKEN=your_access_token
 
 # Additional
 For this project I 3D modeled a stand for the LED Matrix, along with a case for the Pi to rest on the back. The exact matrix I used was a 64x64 2mm pitch waveform Led Matrix ([Matrix Link](https://www.amazon.com/2048-Matrix-Adjustable-Brightness-Compatible/dp/B0BRBG71WS?crid=3U2IPXXK42OK2&dib=eyJ2IjoiMSJ9.4RL-284Rdnl7T7Dne0CUtnTT70pTEpl5SuwPy2Wp800KdTCPqk-B-sWpXiSWoGiyBmSv7VuJLc9sZOiFsp0_3JvdnbX--jNRQujoT3EKn9T621MIRBih6MoR0eLUD9967pnQGPrKv14fvFLiu5mCMsYh3zulY3JBCBzfMxDFBB_ziuVzzvQgPmVQrmVDXC-7.aNrDB8yv9l9W7kduIfUMEgWqiX8mcodHhvMwlxKFMaM&dib_tag=se&keywords=%E2%80%9CWaveshare%2B64x64%2BRGB%2BMatrix%2BP2.5&qid=1783545847&sprefix=%2Caps%2C302&sr=8-1&th=1)) and a Raspberry Pi 3 Model B+  
-> [LED Matrix Stand STL](LED_MATRIX_STAND.stl)  
+> [LED Matrix Stand STL](hardware/LED_MATRIX_STAND.stl)  
 ![Demo Image](images/LED_Matrix_Stand.png)
 
-> [Raspberry Pi Case](LED_MATRIX_STAND.stl) 
+> [Raspberry Pi Case STL](hardware/RASPBERRY_PI_CASE.stl) 
 ![Demo Image](images/Raspberry_Pi_Case.png)
  
 
