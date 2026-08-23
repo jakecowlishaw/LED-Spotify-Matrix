@@ -31,6 +31,7 @@ For this project I 3D modeled a stand for the LED Matrix, along with a case for 
 ![Demo Image](images/Raspberry_Pi_Case.png)
 
 # Example of My Project
+![Demo Image](images/frontOfProject.png)
 ![Demo Image](images/sideOfProject.png)
 ![Demo Image](images/backOfProject.png)
  
